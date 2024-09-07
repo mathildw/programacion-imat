@@ -5,6 +5,14 @@
 - Entender que mediante la programación se pueden automatizar tareas cuya salida dependa de la entrada del programa.
 - Aprender Scratch (o cómo hacer diagramas de flujo de una forma divertida)
 
+**Cómo cargar y descargar programas de Scratch**
+- Web: https://scratch.mit.edu/projects/editor/.
+- Guardar mi programa: 
+   + Archivo -> Guardar en tu ordenador.
+   + File -> Save to my computer
+- Abrir un programa hecho por David: 
+   + Archivo -> Cargar desde tu ordenador.
+   + File -> Load from your computer
 
 ### Programa #1: Programación imperativa básica
 **Secuencializar o agrupar tareas manuales para que sean ejecutadas en un orden concreto**
